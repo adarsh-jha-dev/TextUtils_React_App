@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adarsh-jha-dev/TextUtils_React_App/static/css/main.e55ad9f9.css",
+    "main.js": "/adarsh-jha-dev/TextUtils_React_App/static/js/main.e985b26e.js",
+    "static/js/787.d3befce1.chunk.js": "/adarsh-jha-dev/TextUtils_React_App/static/js/787.d3befce1.chunk.js",
+    "index.html": "/adarsh-jha-dev/TextUtils_React_App/index.html",
+    "main.e55ad9f9.css.map": "/adarsh-jha-dev/TextUtils_React_App/static/css/main.e55ad9f9.css.map",
+    "main.e985b26e.js.map": "/adarsh-jha-dev/TextUtils_React_App/static/js/main.e985b26e.js.map",
+    "787.d3befce1.chunk.js.map": "/adarsh-jha-dev/TextUtils_React_App/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55ad9f9.css",
+    "static/js/main.e985b26e.js"
+  ]
+}
