@@ -13,6 +13,20 @@
   }
 }
 
+.bolder{
+  font-weight: bolder;
+}
+
+.italic{
+  font-style: italic;
+}
+
+navbar{
+  background-color: black;
+  color: white;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
